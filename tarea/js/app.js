@@ -24,4 +24,4 @@ async function mostrarPosts() {
 }
 
 mostrarPosts();
-// Tarea del laboratorio 10 completada
+
